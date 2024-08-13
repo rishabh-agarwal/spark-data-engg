@@ -1,4 +1,4 @@
-package com.learning.sparkdataengg.chapter6;
+package com.learning.sparkdataengg.realtimeProcessingII;
 
 import org.apache.spark.sql.ForeachWriter;
 import org.apache.spark.sql.Row;

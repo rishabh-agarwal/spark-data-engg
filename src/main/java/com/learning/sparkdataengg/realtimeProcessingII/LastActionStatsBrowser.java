@@ -1,4 +1,4 @@
-package com.learning.sparkdataengg.chapter6;
+package com.learning.sparkdataengg.realtimeProcessingII;
 
 import redis.clients.jedis.Jedis;
 import redis.clients.jedis.Tuple;
